@@ -8,7 +8,7 @@ const Header = () => {
 
     return (
         <header className="Header">
-            <h2>Blog App </h2>
+            <h2>Redux Blog App </h2>
             <nav>
                 <ul>
                     <li><Link to="/">Home</Link></li>
